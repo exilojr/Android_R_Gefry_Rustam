@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Android_r_gefry_rustam</string>
+
+        <string-array name="pangkat_array">
+            <item>Eselon II</item>
+            <item>Eselon III</item>
+            <item>Eselon IV</item>
+            <item>Golongan II</item>
+            <item>Golongan III</item>
+            <item>Golongan IV</item>
+
+        </string-array>
+
+</resources>
